@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bracketly.WebApp", "Bracketly.WebApp\Bracketly.WebApp.csproj", "{84CB15F6-2C82-47D0-839D-2370DD7EC628}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84CB15F6-2C82-47D0-839D-2370DD7EC628}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84CB15F6-2C82-47D0-839D-2370DD7EC628}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84CB15F6-2C82-47D0-839D-2370DD7EC628}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84CB15F6-2C82-47D0-839D-2370DD7EC628}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DED466FD-6B45-46FA-8928-7A2CE277349E}
+	EndGlobalSection
+EndGlobal
